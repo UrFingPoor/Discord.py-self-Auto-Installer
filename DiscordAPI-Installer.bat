@@ -1,0 +1,1 @@
+pyinstaller DiscordAPI-Installer.py --onefile --icon=lethalicon.ico --version-file file_version_info.txt
